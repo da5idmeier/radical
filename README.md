@@ -1,2 +1,41 @@
 # radical
 a safe space to create, apart from the destructive ideas of modern technology and thought.
+---
+The year is 2020 and i have had enough of corporations driving the engineering of the modern World. 
+I grew up "online", the first generation to do so. I've seen the progression from the early 90s to 2020 and I am angry.
+
+Perhaps over time I will explain my contention, if you do not share the same disdain for technology in 2020 then we will just
+have to part there for now. I have work to do. I have decided to make it my life's mission to build new ideas for humanity's use
+of technology.
+
+This starts with 3 simple principles, technology should be designed: 
+- to help humans feel safe
+- to connect humanity
+- to empower humanity
+
+Nowhere in this list are things like "shareholder profits", "corporate interests", "surveillance of the state". 
+
+I believe most importantly in: GIVING THE POWER BACK TO THE PEOPLE. I suppose that makes me a Public Enemy, for now.
+
+I have radical ideas about how things should work, I would hope anyone living in today's World would also share this ideal. If you
+look around and you are complacent with everything you see, look deeper, think deeper, step back and truly observe what is happening.
+
+I will try my best to not let my raw, emotional energy out into my writing. I will try to focus this energy on changing what I hate,
+and that starts with (3) major areas of research, in no particular order: 
+- HMD - Head Mounted Displays
+- HCI - Human Computer Interfaces
+- MMI - Man-Machine Interfaces
+
+Now, mind you, there will be more added to this list over time but I think I will start there.
+
+Distributed Ledger Technology (DLT) has begun to develop in order to decentralize trust among society, this is a very powerful idea that
+you should take the time to understand. Whatever implementation exists will continually cause contention, because that is what disruptive
+technology does, but take a step back and observe the ideas in Satoshi's white paper - TRUST must exist for society to function in chaos,
+and we live in a chaotic environment (naturally.) Decentralizing trust is simply the idea that the people (not the power structures) must
+control the ability to trust among our human neighbors.
+
+
+
+
+
+
