@@ -26,7 +26,9 @@ and that starts with (3) major areas of research, in no particular order:
 - HCI - Human Computer Interfaces
 - MMI - Man-Machine Interfaces
 
-Now, mind you, there will be more added to this list over time but I think I will start there.
+Now, mind you, there will be more areas of interest added to this list over time but I think I will start there.
+
+## Technologies that I find fascinating
 
 Distributed Ledger Technology (DLT) has begun to develop in order to decentralize trust among society, this is a very powerful idea that
 you should take the time to understand. Whatever implementation exists will continually cause contention, because that is what disruptive
@@ -34,8 +36,9 @@ technology does, but take a step back and observe the ideas in Satoshi's white p
 and we live in a chaotic environment (naturally.) Decentralizing trust is simply the idea that the people (not the power structures) must
 control the ability to trust among our human neighbors.
 
-i'm trying to think deeply about what it means to be a human and radically rethink the way humanity uses technology. i am not perfect 
-and i am just trying to be a human being, don't judge me too harshly. stick around, i promise i'm not *that* crazy. -- da5id  
+---
+
+i'm trying to think deeply about what it means to be a human and radically rethink the way humanity uses technology. i am not perfect and i am just trying to be a better human being, don't judge me too harshly. stick around, i promise i'm not *that* crazy. -- da5id <3
 
 
 
