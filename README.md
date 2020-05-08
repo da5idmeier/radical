@@ -38,7 +38,8 @@ control the ability to trust among our human neighbors.
 
 ---
 
-i'm trying to think deeply about what it means to be a human and radically rethink the way humanity uses technology. i am not perfect and i am just trying to be a better human being, don't judge me too harshly. stick around, i promise i'm not *that* crazy. 
+"i'm trying to think deeply about what it means to be a human and radically rethink the way humanity uses technology. i am not perfect and i am just trying to be a better human being, don't judge me too harshly. stick around, i promise i'm not *that* crazy."
+<br>
 <sub>-- da5id <3</sub>
 
 
