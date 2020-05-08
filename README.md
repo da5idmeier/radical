@@ -28,7 +28,7 @@ and that starts with (3) major areas of research, in no particular order:
 
 Now, mind you, there will be more areas of interest added to this list over time but I think I will start there.
 
-## Technologies that I find fascinating
+## technologies that I find fascinating
 
 Distributed Ledger Technology (DLT) has begun to develop in order to decentralize trust among society, this is a very powerful idea that
 you should take the time to understand. Whatever implementation exists will continually cause contention, because that is what disruptive
