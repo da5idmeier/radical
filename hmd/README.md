@@ -36,3 +36,28 @@ currently in 2020 i prefer the idea of the augmented (left) part of the immersiv
 computing, anchoring technology to our physical world. humans must feel safe/connected/empowered to explore our physical world, and augmenting reality allows 
 this to happen. while the virtual (right) part of the immersivity spectrum is a form of escapism. 
 
+---
+
+## hardware
+
+designing HMD/wearable platforms for the open source community. 
+
+currently the hardware platform is based on a pair of glasses called "proto" that was available on thingiverse that i am modifying to house **omnivision ovm7690 cameracube's** and 3D print on my prusa mk3s in PLA. the idea is to modify the proto glasses model in fusion360 to make room for (5) cameracube's to start. then design FPC (flex printed circuit) to connect the cameracube's to a midplane that can either route to a jetson nano or over usb-c into a Snapdragon 840+ SoC smart phone.
+
+starting with cameras allows those interested to build their own platform, modifying the mount hardware (glasses) and building ontop of a common framework together.
+
+my naive approach to designing an HMD platform is: 
+v1:
+- mount (5) ovm7690 cameracube's onto proto glasses frames
+- route cameras via custom FPC+hirose connector into a midplane
+- translate signals into whatever dev platform requires
+- process signals into images
+v2:
+- add 3D time of flight sensor to test depth mapping
+- add IR emitter/photodiode to test surface detection/depth
+v3:
+- test optics engine
+ + LCOS microdisplay into a polarized beamsplitter (3 channels to start? 1 focal plane?)
+ + add rgb led light source
+ + add optics routing into entrance diffractions of optical waveguides (3 layers, RGB 1 planar of focus to start?)
+
