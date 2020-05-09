@@ -48,10 +48,10 @@ starting with cameras allows those interested to build their own platform, modif
 
 my naive approach to designing an HMD platform is: 
 1. v1:
-... mount (5) ovm7690 cameracube's onto proto glasses frames
-... route cameras via custom FPC+hirose connector into a midplane
-... translate signals into whatever dev platform requires
-... process signals into images
+..mount (5) ovm7690 cameracube's onto proto glasses frames
+..route cameras via custom FPC+hirose connector into a midplane
+..translate signals into whatever dev platform requires
+..process signals into images
 2. v2:
 ... add 3D time of flight sensor to test depth mapping
 ... add IR emitter/photodiode to test surface detection/depth
