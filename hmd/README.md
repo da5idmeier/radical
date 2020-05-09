@@ -61,8 +61,8 @@ starting with cameras allows those interested to build their own platform, modif
 
 ### v3
 <br>
-- test optics engine
-- LCOS microdisplay into a polarized beamsplitter (3 channels to start? 1 focal plane?)
-- add rgb led light source
-- add optics routing into entrance diffractions of optical waveguides (3 layers, RGB 1 planar of focus to start?)
+* test optics engine
+* LCOS microdisplay into a polarized beamsplitter (3 channels to start? 1 focal plane?)
+* add rgb led light source
+* add optics routing into entrance diffractions of optical waveguides (3 layers, RGB 1 planar of focus to start?)
 
