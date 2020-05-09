@@ -46,23 +46,16 @@ currently the hardware platform is based on a pair of glasses called "proto" tha
 
 starting with cameras allows those interested to build their own platform, modifying the mount hardware (glasses) and building ontop of a common framework together.
 
-## my naive approach to designing an HMD platform is 
-### v1
+## my naive approach to designing an HMD platform is:
 <br>
 - mount (5) ovm7690 cameracube's onto proto glasses frames
 - route cameras via custom FPC + hirose connector into a midplane
 - translate signals into whatever dev platform requires
 - process signals into images
-
-### v2
-<br>
 - add 3D time of flight sensor to test depth mapping
 - add IR emitter/photodiode to test surface detection/depth
-
-### v3
-<p>
 * test optics engine
 * LCOS microdisplay into a polarized beamsplitter (3 channels to start? 1 focal plane?)
 * add rgb led light source
 * add optics routing into entrance diffractions of optical waveguides (3 layers, RGB 1 planar of focus to start?)
-</p>
+
